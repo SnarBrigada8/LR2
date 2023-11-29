@@ -1,0 +1,3 @@
+VAR CONSTANT
+	New_Variable : USINT := 0;
+END_VAR
