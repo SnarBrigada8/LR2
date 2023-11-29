@@ -1,0 +1,5 @@
+VAR
+	ledSM : {REDUND_UNREPLICABLE} LedStateMachine;
+	driveSM : DriveStateMashine := (0);
+	doorSM : DoorStateMachine := (0);
+END_VAR
